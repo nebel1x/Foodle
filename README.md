@@ -8,6 +8,6 @@
 
 > [!IMPORTANT]
 > **Foodle is a fork of the Jellyfin project. Thanks to the Jellyfin team!**  <br>
-> This project would be inexistent without them, if you desire contributing or donating, please do the the Jellyfin team.<br>
+> This project would be inexistent without them, if you desire contributing or donating, please do to the Jellyfin team.<br>
 > If any revenues are made with Foodle, it integrity will be shared with the Jellyfin team.<br>
 > **Jellyfin is part of the Jellyfin project, visit them at [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin).**
