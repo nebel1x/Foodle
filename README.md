@@ -6,6 +6,4 @@
 
 Foodlefish is the fishiest software media system based on Jellyfin.
 
-<div align="center">
-  <img src="https://media1.tenor.com/m/-grbFWzOpWEAAAAC/screaming-fish.gif" width="10%" alt="Foodle Banner">
-</div>
+<img src="https://media1.tenor.com/m/-grbFWzOpWEAAAAC/screaming-fish.gif" width="10%" alt="Foodle Banner">
